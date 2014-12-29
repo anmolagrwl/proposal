@@ -1,0 +1,2 @@
+module ProposallsHelper
+end
